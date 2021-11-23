@@ -1,9 +1,9 @@
 # AspNet Core Web Application
 Sample ASP.NET Core Application for performance testing
 
-![Lighthouse Results of 4 x 100](docs\Lighthouse-100-11-22-2021.png)
+![Lighthouse Results of 4 x 100](docs/Lighthouse-100-11-22-2021.png)
 
-![Lighthouse Metrics](docs\Lighthouse-Metrics-11-22-2021.png)
+![Lighthouse Metrics](docs/Lighthouse-Metrics-11-22-2021.png)
 
 ## Inspiration
 
